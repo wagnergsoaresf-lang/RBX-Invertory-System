@@ -1,0 +1,8 @@
+local SlotConfigs = {
+	debugMode = true,
+	MaxSlots = 4, -- Limite Maximo de Slots
+	TimeShowdelay = 2 -- Tempo definido para deizar slot visivel apos inicialização
+}
+
+
+return SlotConfigs
